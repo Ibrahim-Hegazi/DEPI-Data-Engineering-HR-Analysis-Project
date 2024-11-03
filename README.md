@@ -1,4 +1,4 @@
-** # HR Analysis Dashboard**
+# **HR Analysis Dashboard**
 This project is my first HR Analysis dashboard, built with Microsoft Transact-SQL to uncover insights from employee data. It involved analyzing employee demographics and integrating various HR metrics into a cohesive, data-driven view.
 
 ## Project Highlights
