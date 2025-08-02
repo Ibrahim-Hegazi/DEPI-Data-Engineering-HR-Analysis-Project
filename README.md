@@ -31,7 +31,7 @@ This project conducts an in-depth analysis of workforce demographics across mult
 6. Identify key workforce demographics insights
 
 ## DataSet
-Data Source: AdventureWorks Database ( [https://lnkd.in/daMepSV6](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak))
+Data Source:[ AdventureWorks Database  ](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak)
 The analysis uses the AdventureWorks2019 database with focus on:
 - HumanResources.Employee
 - HumanResources.EmployeeDepartmentHistory
