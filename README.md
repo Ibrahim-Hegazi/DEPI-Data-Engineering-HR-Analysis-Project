@@ -105,9 +105,9 @@ The analysis uses the AdventureWorks2019 database with focus on:
 |------------|-----------|
 | Level 1    | 6         |
 | Level 2    | 27        |
-| Level 3    | 58        |
+| Level 3    | 66        |
 | Level 4    | 190       |
-| Executives | 9         |
+| Executives | 1         |
 
 ## Key_Recommendations
 1. Implement targeted recruitment for younger employees to balance age distribution
