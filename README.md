@@ -4,7 +4,7 @@ This project is my first HR Analysis dashboard, built with Microsoft Transact-SQ
 ## Project Highlights
 Skills Applied: Data cleaning, complex SQL queries, and dashboard development.
 Main Focus: Accurate data integration, creating actionable insights, and exploring key HR metrics.
-Data Source: AdventureWorks Database ( [https://lnkd.in/daMepSV6](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak))
+
 
 
 
@@ -42,6 +42,7 @@ This project conducts an in-depth analysis of workforce demographics across mult
 6. Identify key workforce demographics insights
 
 ## DataSet
+Data Source: AdventureWorks Database ( [https://lnkd.in/daMepSV6](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak))
 The analysis uses the AdventureWorks2019 database with focus on:
 - HumanResources.Employee
 - HumanResources.EmployeeDepartmentHistory
